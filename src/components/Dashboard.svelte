@@ -27,42 +27,42 @@
     <h3>Monthly</h3>
   </div>
   <div class="box orange">
-    <img src="src/assets/icon-work.svg" alt="work" />
+    <img src="/src/assets/icon-work.svg" alt="work" />
     <div class="innerBox">
       <h3>Work</h3>
       <h1>{daily ? daily.work : 0}hrs</h1>
     </div>
   </div>
   <div class="box blue">
-    <img src="src/assets/icon-play.svg" alt="play" />
+    <img src="/src/assets/icon-play.svg" alt="play" />
     <div class="innerBox">
       <h3>Play</h3>
       <h1>{daily ? daily.play : 0} hrs</h1>
     </div>
   </div>
   <div class="box red">
-    <img src="src/assets/icon-study.svg" alt="study" />
+    <img src="/src/assets/icon-study.svg" alt="study" />
     <div class="innerBox">
       <h3>Study</h3>
       <h1>{daily ? daily.study : 0}hrs</h1>
     </div>
   </div>
   <div class="box green">
-    <img src="src/assets/icon-exercise.svg" alt="Exercise" />
+    <img src="/src/assets/icon-exercise.svg" alt="Exercise" />
     <div class="innerBox">
       <h3>Exercise</h3>
       <h1>{daily ? daily.exercise : 0} hrs</h1>
     </div>
   </div>
   <div class="box violet">
-    <img src="src/assets/icon-social.svg" alt="social" />
+    <img src="/src/assets/icon-social.svg" alt="social" />
     <div class="innerBox">
       <h3>Social</h3>
       <h1>{daily ? daily.social : 0} hrs</h1>
     </div>
   </div>
   <div class="box yellow">
-    <img src="src/assets/icon-self-care.svg" alt="self care" />
+    <img src="/src/assets/icon-self-care.svg" alt="self care" />
     <div class="innerBox">
       <h3>Self Care</h3>
       <h1>{daily ? daily.selfCare : 0} hrs</h1>
