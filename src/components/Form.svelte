@@ -42,7 +42,7 @@
   <div class="form">
     <div class="inputBox">
       <div class="box orange">
-        <img src="src/assets/icon-work.svg" alt="work" />
+        <img src="public/assets/icon-work.svg" alt="work" />
       </div>
       <div class="input">
         <input
@@ -56,7 +56,7 @@
     </div>
     <div class="inputBox">
       <div class="box blue">
-        <img src="src/assets/icon-play.svg" alt="play" />
+        <img src="public/assets/icon-play.svg" alt="play" />
       </div>
       <div class="input">
         <input
@@ -70,7 +70,7 @@
     </div>
     <div class="inputBox">
       <div class="box red">
-        <img src="src/assets/icon-study.svg" alt="study" />
+        <img src="public/assets/icon-study.svg" alt="study" />
       </div>
       <div class="input">
         <input
@@ -84,7 +84,7 @@
     </div>
     <div class="inputBox">
       <div class="box green">
-        <img src="src/assets/icon-exercise.svg" alt="Exercise" />
+        <img src="public/assets/icon-exercise.svg" alt="Exercise" />
       </div>
       <div class="input">
         <input
@@ -98,7 +98,7 @@
     </div>
     <div class="inputBox">
       <div class="box violet">
-        <img src="src/assets/icon-social.svg" alt="social" />
+        <img src="public/assets/icon-social.svg" alt="social" />
       </div>
       <div class="input">
         <input
@@ -112,7 +112,7 @@
     </div>
     <div class="inputBox">
       <div class="box yellow">
-        <img src="src/assets/icon-self-care.svg" alt="self care" />
+        <img src="public/assets/icon-self-care.svg" alt="self care" />
       </div>
       <div class="input">
         <input
